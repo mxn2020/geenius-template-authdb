@@ -1,0 +1,16 @@
+name: geenius-template-authdb
+project_scope: main
+project_type: standalone
+description: Geenius AuthDB Template — CRUD app starter with React + Convex + ConvexAuth + Tailwind CSS 4
+tier: prototype
+lane: client-work
+priority: medium
+oss: true
+stack: ["typescript", "react", "vite", "convex", "tailwind", "tanstack"]
+repo: "https://github.com/mxn2020/geenius-template-authdb"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["geenius-template-authdb", "convex", "react", "template", "starter", "client"]
+notes: null
+id: null
+category: boilerplate
